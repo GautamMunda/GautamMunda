@@ -28,3 +28,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautammunda&show_icons=true&locale=en&layout=compact" alt="gautammunda" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautammunda&show_icons=true&locale=en" alt="gautammunda" /></p>
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
